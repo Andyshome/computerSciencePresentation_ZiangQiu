@@ -14,6 +14,15 @@
 		5437C67C20A20072002FDE94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5437C67A20A20072002FDE94 /* LaunchScreen.storyboard */; };
 		5437C68720A20072002FDE94 /* computerSciencePresentation_ZiangQiuTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5437C68620A20072002FDE94 /* computerSciencePresentation_ZiangQiuTests.swift */; };
 		5437C69220A20072002FDE94 /* computerSciencePresentation_ZiangQiuUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5437C69120A20072002FDE94 /* computerSciencePresentation_ZiangQiuUITests.swift */; };
+		5463083820A35F5E00402484 /* ViewControllerPiotr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5463083720A35F5E00402484 /* ViewControllerPiotr.swift */; };
+		FE60C9E020A8BBE10006BF25 /* robotic.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FE60C9DF20A8BBE10006BF25 /* robotic.mp4 */; };
+		FE60C9E220A8D5BB0006BF25 /* ZiangQiu1.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE60C9E120A8D5BA0006BF25 /* ZiangQiu1.swift */; };
+		FE60C9E620A8E0290006BF25 /* ZiangQiu2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE60C9E520A8E0290006BF25 /* ZiangQiu2.swift */; };
+		FE60C9E820A8E4A10006BF25 /* ZiangQiu3.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE60C9E720A8E4A10006BF25 /* ZiangQiu3.swift */; };
+		FE60C9EA20A8E6F70006BF25 /* applePay.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FE60C9E920A8E6F70006BF25 /* applePay.mp4 */; };
+		FE60C9EC20A8F3B40006BF25 /* ZiangQiu4.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE60C9EB20A8F3B40006BF25 /* ZiangQiu4.swift */; };
+		FE60C9EE20A8FB6E0006BF25 /* Google.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FE60C9ED20A8FB6E0006BF25 /* Google.mp4 */; };
+		FE60C9F020A8FF580006BF25 /* TED.mov in Resources */ = {isa = PBXBuildFile; fileRef = FE60C9EF20A8FF580006BF25 /* TED.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +56,15 @@
 		5437C68D20A20072002FDE94 /* computerSciencePresentation_ZiangQiuUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = computerSciencePresentation_ZiangQiuUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5437C69120A20072002FDE94 /* computerSciencePresentation_ZiangQiuUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = computerSciencePresentation_ZiangQiuUITests.swift; sourceTree = "<group>"; };
 		5437C69320A20072002FDE94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5463083720A35F5E00402484 /* ViewControllerPiotr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerPiotr.swift; sourceTree = "<group>"; };
+		FE60C9DF20A8BBE10006BF25 /* robotic.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = robotic.mp4; sourceTree = "<group>"; };
+		FE60C9E120A8D5BA0006BF25 /* ZiangQiu1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZiangQiu1.swift; sourceTree = "<group>"; };
+		FE60C9E520A8E0290006BF25 /* ZiangQiu2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZiangQiu2.swift; sourceTree = "<group>"; };
+		FE60C9E720A8E4A10006BF25 /* ZiangQiu3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZiangQiu3.swift; sourceTree = "<group>"; };
+		FE60C9E920A8E6F70006BF25 /* applePay.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = applePay.mp4; sourceTree = "<group>"; };
+		FE60C9EB20A8F3B40006BF25 /* ZiangQiu4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZiangQiu4.swift; sourceTree = "<group>"; };
+		FE60C9ED20A8FB6E0006BF25 /* Google.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Google.mp4; sourceTree = "<group>"; };
+		FE60C9EF20A8FF580006BF25 /* TED.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = TED.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +95,10 @@
 		5437C66520A20071002FDE94 = {
 			isa = PBXGroup;
 			children = (
+				FE60C9DF20A8BBE10006BF25 /* robotic.mp4 */,
+				FE60C9ED20A8FB6E0006BF25 /* Google.mp4 */,
+				FE60C9EF20A8FF580006BF25 /* TED.mov */,
+				FE60C9E920A8E6F70006BF25 /* applePay.mp4 */,
 				5437C67020A20071002FDE94 /* computerSciencePresentation_ZiangQiu */,
 				5437C68520A20072002FDE94 /* computerSciencePresentation_ZiangQiuTests */,
 				5437C69020A20072002FDE94 /* computerSciencePresentation_ZiangQiuUITests */,
@@ -99,8 +121,13 @@
 			children = (
 				5437C67120A20071002FDE94 /* AppDelegate.swift */,
 				5437C67320A20071002FDE94 /* ViewController.swift */,
+				FE60C9E120A8D5BA0006BF25 /* ZiangQiu1.swift */,
+				FE60C9E520A8E0290006BF25 /* ZiangQiu2.swift */,
+				FE60C9E720A8E4A10006BF25 /* ZiangQiu3.swift */,
+				FE60C9EB20A8F3B40006BF25 /* ZiangQiu4.swift */,
 				5437C67520A20071002FDE94 /* Main.storyboard */,
 				5437C67820A20072002FDE94 /* Assets.xcassets */,
+				5463083720A35F5E00402484 /* ViewControllerPiotr.swift */,
 				5437C67A20A20072002FDE94 /* LaunchScreen.storyboard */,
 				5437C67D20A20072002FDE94 /* Info.plist */,
 			);
@@ -229,9 +256,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE60C9E020A8BBE10006BF25 /* robotic.mp4 in Resources */,
 				5437C67C20A20072002FDE94 /* LaunchScreen.storyboard in Resources */,
 				5437C67920A20072002FDE94 /* Assets.xcassets in Resources */,
 				5437C67720A20071002FDE94 /* Main.storyboard in Resources */,
+				FE60C9F020A8FF580006BF25 /* TED.mov in Resources */,
+				FE60C9EE20A8FB6E0006BF25 /* Google.mp4 in Resources */,
+				FE60C9EA20A8E6F70006BF25 /* applePay.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,7 +288,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				5437C67420A20071002FDE94 /* ViewController.swift in Sources */,
+				FE60C9E620A8E0290006BF25 /* ZiangQiu2.swift in Sources */,
+				5463083820A35F5E00402484 /* ViewControllerPiotr.swift in Sources */,
+				FE60C9E820A8E4A10006BF25 /* ZiangQiu3.swift in Sources */,
 				5437C67220A20071002FDE94 /* AppDelegate.swift in Sources */,
+				FE60C9E220A8D5BB0006BF25 /* ZiangQiu1.swift in Sources */,
+				FE60C9EC20A8F3B40006BF25 /* ZiangQiu4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -431,6 +467,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 8DZ9Y5FRKK;
 				INFOPLIST_FILE = computerSciencePresentation_ZiangQiu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -448,6 +485,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 8DZ9Y5FRKK;
 				INFOPLIST_FILE = computerSciencePresentation_ZiangQiu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
